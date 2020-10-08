@@ -3,7 +3,7 @@ Check out my portfolio [Here](https://cruizk.com)
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&theme=Dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&theme=Dark&layout=compact" />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CruizK&theme=dark)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio&theme=dark)](https://github.com/CruizK/portfolio)
 <!--
