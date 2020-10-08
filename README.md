@@ -1,5 +1,7 @@
 ### Hi there 👋
 Check out my portfolio [Here](https://cruizk.com)
+
+### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK)]()
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CruizK)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio)](https://github.com/CruizK/portfolio)
