@@ -2,7 +2,8 @@
 Check out my portfolio [Here](https://cruizk.com)
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&layout=compact&theme=dark)]()
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&theme=Dark" />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CruizK&theme=dark)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio&theme=dark)](https://github.com/CruizK/portfolio)
 <!--
