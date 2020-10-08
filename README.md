@@ -2,9 +2,9 @@
 Check out my portfolio [Here](https://cruizk.com)
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK)]()
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CruizK)]()
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio)](https://github.com/CruizK/portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&layout=compact&theme=dark)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CruizK&theme=dark)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio&theme=dark)](https://github.com/CruizK/portfolio)
 <!--
 **CruizK/CruizK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
