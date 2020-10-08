@@ -3,10 +3,19 @@ Check out my portfolio [Here](https://cruizk.com)
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&theme=Dark&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CruizK&theme=Dark&layout=compact" />
+<a href="https://github.com/CruizK/CruizK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CruizK/Cruiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CruizK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio&theme=dark)](https://github.com/CruizK/portfolio)
+<a href="https://github.com/CruizK/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CruizK/ShEngine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CruizK&repo=ShEngine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <!--
 **CruizK/CruizK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
