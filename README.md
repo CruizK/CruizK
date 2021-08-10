@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Cruiz Kusman, I focus mainly on full-stack web development as well as a little Game Engine programming on the side.
+My name is Cruiz, I focus mainly on full-stack web development as well as a little Game Engine programming on the side.
 
 ## &#x1f4c8; GitHub Stats
 
