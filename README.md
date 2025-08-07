@@ -1,14 +1,6 @@
 ## Hello there 👋
 My name is Cruiz, I focus mainly on full-stack web development as well as a little Game Engine programming on the side.
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/CruizK/CruizK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruizK&hide=shaderlab,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/CruizK/Cruiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CruizK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 <!--
 **CruizK/CruizK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
