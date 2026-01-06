@@ -1,5 +1,7 @@
 ## Hello there 👋
-My name is Cruiz, I focus mainly on full-stack web development as well as a little Game Engine programming on the side.
+My name is Cruiz, I bounce around from data engineering, to software, to game development, all in my cozy world of neovim.
+
+[Dots](https://github.com/CruizK/dotfiles/tree/main/nvim/.config/nvim)
 
 
 <!--
