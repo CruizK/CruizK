@@ -1,7 +1,7 @@
 ## Hello there 👋
 My name is Cruiz, I bounce around from data engineering, to software, to game development, all in my cozy world of neovim.
 
-[Dots](https://github.com/CruizK/dotfiles/tree/main/nvim/.config/nvim)
+[Dots](https://github.com/CruizK/dotfiles/tree/main/nvim/.config/nvim) [Website](https://cruiz.dev)
 
 
 <!--
